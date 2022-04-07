@@ -3,3 +3,6 @@ new-file-on-fork.txt
 some updates to make second changes.
 This time we are pushing new-branch-2
 and merge it remotely.
+
+=====================
+third changis
